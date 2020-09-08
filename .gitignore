@@ -1,0 +1,14 @@
+# ignore binary directories
+bin/
+build/
+results/
+rsc/
+# Ignore Visual studio 
+.vs/
+obj/
+*.vcxproj.user
+*.vcxproj
+*.sln
+
+
+
