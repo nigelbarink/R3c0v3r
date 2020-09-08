@@ -17,8 +17,8 @@ solution "Rec0ver_H4rv4rd"
 
         configuration "Debug"
             defines {"DEBUG"}
-            Symbols "On"
+            symbols "On"
 
         configuration "Release"
             defines {"NDEBUG"}
-            Optimize "On" 
+            optimize "On" 
