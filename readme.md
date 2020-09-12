@@ -32,3 +32,7 @@ Usage: ./recover image
 $ ./recover card.raw
 ```
 
+## Resources 
+**Harvard CS50 exercise:** [https://cs50.harvard.edu/x/2020/psets/4/recover/#:~:text=y%20card,%20but%20t](https://cs50.harvard.edu/x/2020/psets/4/recover/#:~:text=y%20card,%20but%20t)
+
+

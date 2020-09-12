@@ -18,6 +18,7 @@ solution "Rec0ver_H4rv4rd"
         configuration "Debug"
             defines {"DEBUG"}
             symbols "On"
+            os.copyfile("rsc/card.raw" , "build/debug/card.raw")
 
         configuration "Release"
             defines {"NDEBUG"}
